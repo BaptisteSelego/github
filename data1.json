@@ -1,0 +1,1097 @@
+[
+  {
+    "project": "studiomap-new",
+    "link": "https://github.com/selego/studiomap-new",
+    "files": "brevo.js, facebook.js, google.js, passport.js, sentry.js, Update sentry.js, webflow.js"
+  },
+  {
+    "project": "linkera",
+    "link": "https://github.com/selego/linkera",
+    "files": "email.js, pandadoc.js, passport.js, pdf.js, s3.js"
+  },
+  {
+    "project": "doxallia",
+    "link": "https://github.com/selego/doxallia",
+    "files": "classification.js, email.js, passport.js, pdf.js, s3.js, syspertec.js"
+  },
+  {
+    "project": "janah",
+    "link": "https://github.com/selego/janah",
+    "files": "brevo.js, mongo.js, passport.js, s3.js, sentry.js"
+  },
+  {
+    "project": "climby",
+    "link": "https://github.com/selego/climby",
+    "files": "brevo.js, mongo.js, onesignal.js, passport.js, s3.js, sentry.js"
+  },
+  {
+    "project": "moneywalkie",
+    "link": "https://github.com/selego/moneywalkie",
+    "files": "hipay.js, klaviyo.js, mixpanel.js, neolys.js, onesignal.js, sendinblue.js, sentry.js, shopify.js, slack.js, treezor.js, treezorOrderPhysicalDevices.js, twilio.js, vpnApi.js"
+  },
+  {
+    "project": "ithake",
+    "link": "https://github.com/selego/ithake",
+    "files": "gpt.js, helloasso.js, Update helloasso.js, notification.js, otipass.js, tracking.js"
+  },
+  {
+    "project": "korp",
+    "link": "https://github.com/selego/korp",
+    "files": "brevo.js, mongo.js, passport.js, s3.js, sentry.js"
+  },
+  {
+    "project": "apicivique",
+    "link": "https://github.com/selego/apicivique",
+    "files": ""
+  },
+  {
+    "project": "CRM",
+    "link": "https://github.com/selego/CRM",
+    "files": "  mongo.js, passport.js, sentry.js"
+  },
+  {
+    "project": "accounting",
+    "link": "https://github.com/selego/accounting",
+    "files": "bunq.js, dalle.js, dropcontact.js, github.js, gpt.js, gpt4.js, midjourney.js, nordigen.js, pdf.js,  webflow.js"
+  },
+  {
+    "project": "snu-mirror",
+    "link": "https://github.com/selego/snu-mirror",
+    "files": "application.js, contract.js, gdpr.js, inscription-goal.js, jeveuxaider.js, mission.js, pointDeRassemblement.service.js, support.js"
+  },
+  {
+    "project": "finotor",
+    "link": "https://github.com/selego/finotor",
+    "files": "nordigen.js"
+  },
+  {
+    "project": "doxallia-pdp",
+    "link": "https://github.com/selego/doxallia-pdp",
+    "files": "brevo.js, handlebars.js, mongo.js, onesignal.js, passport.js, s3.js, sentry.js"
+  },
+  {
+    "project": "jobmaker",
+    "link": "https://github.com/selego/jobmaker",
+    "files": "alpha.js, cv-matching.js, mistral.js, Update mistral.js, teams.js, wizbii.js"
+  },
+  {
+    "project": "les-tricolores",
+    "link": "https://github.com/selego/les-tricolores",
+    "files": "api.js, mixpanel.js, sentry.js, storage.js"
+  },
+  {
+    "project": "certificates-mw",
+    "link": "https://github.com/selego/certificates-mw",
+    "files": ""
+  },
+  {
+    "project": "moneywalkie-og",
+    "link": "https://github.com/selego/moneywalkie-og",
+    "files": "nepting.js, sendinblue.js, vpnApi.js"
+  },
+  {
+    "project": "lingo-circle",
+    "link": "https://github.com/selego/lingo-circle",
+    "files": "answer.js, brevo.js, cron.js, exercise.js, passport.js, sentry.js"
+  },
+  {
+    "project": "finense",
+    "link": "https://github.com/selego/finense",
+    "files": "brevo.js, logger.js, passport.js, powens.js, s3.js, sentry.js, sequelize.js, treezor.js"
+  },
+  {
+    "project": "imglobalpartners",
+    "link": "https://github.com/selego/imglobalpartners",
+    "files": "brevo.js, mongo.js, passport.js, s3.js, sentry.js"
+  },
+  {
+    "project": "findyourcofounder",
+    "link": "https://github.com/selego/findyourcofounder",
+    "files": "httpService.js"
+  },
+  {
+    "project": "bigfriend",
+    "link": "https://github.com/selego/bigfriend",
+    "files": " gpt4.js,  mongo.js, passport.js, pupeteer.js, sendinblue.js, sentry.js"
+  },
+  {
+    "project": "doxia_kyc",
+    "link": "https://github.com/selego/doxia_kyc",
+    "files": ""
+  },
+  {
+    "project": "ozensemble-tests",
+    "link": "https://github.com/selego/ozensemble-tests",
+    "files": "matomo.js, sentry.js"
+  },
+  {
+    "project": "CV_Matching",
+    "link": "https://github.com/selego/CV_Matching",
+    "files": "data.js"
+  },
+  {
+    "project": "ozensensemble-strapi-site",
+    "link": "https://github.com/selego/ozensensemble-strapi-site",
+    "files": ""
+  },
+  {
+    "project": "ozensemble-site-strapi",
+    "link": "https://github.com/selego/ozensemble-site-strapi",
+    "files": ""
+  },
+  {
+    "project": "enterprise-chai",
+    "link": "https://github.com/selego/enterprise-chai",
+    "files": "brevo.js, mongo.js, passport.js, s3.js, sentry.js"
+  },
+  {
+    "project": "technical-test-devops-2",
+    "link": "https://github.com/selego/technical-test-devops-2",
+    "files": "server.js"
+  },
+  {
+    "project": "docflow",
+    "link": "https://github.com/selego/docflow",
+    "files": "Create annotation_document.js, apiKeyMiddleware.js, auth.js,  constants.js,  mongo.js, passport.js, pythonServer.js, s3.js, sendinblue.js, sentry.js, slack.js"
+  },
+  {
+    "project": "matteriality",
+    "link": "https://github.com/selego/matteriality",
+    "files": "brevo.js, mongo.js, passport.js, pdf.js, s3.js, sentry.js"
+  },
+  {
+    "project": "boilerplate-mobile",
+    "link": "https://github.com/selego/boilerplate-mobile",
+    "files": " env-manager.js,  mongo.js, passport.js"
+  },
+  {
+    "project": "pdf",
+    "link": "https://github.com/selego/pdf",
+    "files": " error.js,  Update index.js"
+  },
+  {
+    "project": "mongoose-elastic",
+    "link": "https://github.com/selego/mongoose-elastic",
+    "files": "index.test.ts, index.ts"
+  },
+  {
+    "project": "Vizygood",
+    "link": "https://github.com/selego/Vizygood",
+    "files": "loghelper.js, mailjet.js"
+  },
+  {
+    "project": "AI_labo",
+    "link": "https://github.com/selego/AI_labo",
+    "files": ""
+  },
+  {
+    "project": "erasmus",
+    "link": "https://github.com/selego/erasmus",
+    "files": "  mongo.js, passport.js, s3.js, sendinblue.js, sentry.js"
+  },
+  {
+    "project": "prolenser",
+    "link": "https://github.com/selego/prolenser",
+    "files": "brevo.js, mongo.js, passport.js, s3.js, sentry.js"
+  },
+  {
+    "project": "ibitibi",
+    "link": "https://github.com/selego/ibitibi",
+    "files": "brevo.js, mongo.js, passport.js, s3.js, sentry.js"
+  },
+  {
+    "project": "emeis",
+    "link": "https://github.com/selego/emeis",
+    "files": ""
+  },
+  {
+    "project": "snu-scripts",
+    "link": "https://github.com/selego/snu-scripts",
+    "files": "2022-06-21_export-team-session.js, 2022-06-22_export-chef-de-centre.js, 2022-07-04_sync-es.js, Create 2022-07-04_sync-es.js, add-phase-2-application-status.js, add_bus_to_young.js, add_cohort_application.js, add_equiv_status_to_young.js, affectation-fevrier-2022-2.js, affectation-fevrier-2022.js, change_role.js, clean-addresses.js, clean-emails.js, clean-eure-et-loir.js, clean-test-prod.js, clean_es.js, clean_sendinblue.js, close-inscription-6-may-2021.js, declage_youg_es_mongo.js, defaultApplication.js, delete copy.js, delete-cni.js, delete.js, densite.js, department-region-2020.js, duplicates-all.js, duplicates.js, emailSendinBlue.js, emailSendinBlueCreateJSON.js, etablissement-2022-etranger.js, etablissement-2022.js, etablissement-cedex.js, etablissement.js, findLastYoungUpdateStatus.js, findYoungRef-with-json.js, fix-all-center-places.js, fix-centre-2.js, fix-centre-3.js, fix-centre-4.js, fix-centre-5.js, fix-centre.js, fix-cohesion-stay-status.js, fix-engaged.js, fix-young-status-none.js, forceup_oneyoung.js, fusion_centre.js, getFilesForYoung.js, getMissionApiEngagement.js, import-cohesion-center.js, importAffectationComplementaire.js, importAffectationInterDepart.js, importAffectationValidated-fix-withdrawn.js, importAffectationValidated.js, importMysql.js, insert-nouvelle-caledonie.js, insertPrograms.js, mail.js, makeDocs.js, merge-onacvg.js, migrate.js, ninjafication.js, prodtopreprod.js, pseudo-2021-email.js, pseudo-withdrawn.js, putSeatsTakenToZero.js, put_all_mappings.js, ref_multidep.js, referent.js, reindex_es_all_models.js, send-invite-nouvell-caledonie.js, sendinblue.js, sync.js, syncMail.js, t.js, update-address.js, update-bus-line.js, update-cohesion-center.js, update-missions-location-from-address.js, update-network-name-in-structure.js, update-period-in-missions.js, update-places-in-missions.js, update-school-department-2022.js, update-school-department.js, update-school-id.js, update-status-phase3.js, update-step-inscription.js, update-time-schedule-for-all-sessions.js, update-tutor-names.js, update-young-cni_expires.js, update-young-isRegionRural.js, update-young-parentImage.js, update-youngs-location-from-address.js, update-youngs.js,  young-waiting-list-to-validated.js, Create young-waiting-list-to-validated.js, young_bad_session.js"
+  },
+  {
+    "project": "snupport",
+    "link": "https://github.com/selego/snupport",
+    "files": " cookie-options.js, es.js, imap.js,  jwt-options.js, mongo.js, passport.js, sendinblue.js, sentry.js, slack.js"
+  },
+  {
+    "project": "cessionreprise",
+    "link": "https://github.com/selego/cessionreprise",
+    "files": "s3.js"
+  },
+  {
+    "project": "ballnconnect",
+    "link": "https://github.com/selego/ballnconnect",
+    "files": ""
+  },
+  {
+    "project": "reproduce-onesignal-expo",
+    "link": "https://github.com/selego/reproduce-onesignal-expo",
+    "files": "App.js, babel.config.js"
+  },
+  {
+    "project": "mogafestival",
+    "link": "https://github.com/selego/mogafestival",
+    "files": "  mongo.js, passport.js"
+  },
+  {
+    "project": "nightstories",
+    "link": "https://github.com/selego/nightstories",
+    "files": "mongo.js, passport.js, s3.js, sendinblue.js, sentry.js"
+  },
+  {
+    "project": "studiomap",
+    "link": "https://github.com/selego/studiomap",
+    "files": ""
+  },
+  {
+    "project": "technical-test",
+    "link": "https://github.com/selego/technical-test",
+    "files": "auth.js,   mongo.js, passport.js"
+  },
+  {
+    "project": "kolab",
+    "link": "https://github.com/selego/kolab",
+    "files": "  mongo.js, passport.js, s3.js, sendinblue.js, sentry.js"
+  },
+  {
+    "project": "mesplaques",
+    "link": "https://github.com/selego/mesplaques",
+    "files": ""
+  },
+  {
+    "project": "MuseSculptures",
+    "link": "https://github.com/selego/MuseSculptures",
+    "files": " data.js"
+  },
+  {
+    "project": "rentabl_new",
+    "link": "https://github.com/selego/rentabl_new",
+    "files": "brevo.js, mongo.js, passport.js, s3.js, sentry.js"
+  },
+  {
+    "project": "propsplit",
+    "link": "https://github.com/selego/propsplit",
+    "files": "brevo.js,   mongo.js, passport.js, sentry.js"
+  },
+  {
+    "project": "efoot",
+    "link": "https://github.com/selego/efoot",
+    "files": ""
+  },
+  {
+    "project": "medication-matching",
+    "link": "https://github.com/selego/medication-matching",
+    "files": "brevo.js, mongo.js, passport.js, s3.js, sentry.js"
+  },
+  {
+    "project": "maestro2",
+    "link": "https://github.com/selego/maestro2",
+    "files": "pdf-rapport.js, pdf-visit.js"
+  },
+  {
+    "project": "offline-inspections",
+    "link": "https://github.com/selego/offline-inspections",
+    "files": ""
+  },
+  {
+    "project": "finense_old",
+    "link": "https://github.com/selego/finense_old",
+    "files": ""
+  },
+  {
+    "project": "finense-mobile-ui",
+    "link": "https://github.com/selego/finense-mobile-ui",
+    "files": "App.js, babel. utils.js"
+  },
+  {
+    "project": "finensecore",
+    "link": "https://github.com/selego/finensecore",
+    "files": ""
+  },
+  {
+    "project": "finense-members",
+    "link": "https://github.com/selego/finense-members",
+    "files": ""
+  },
+  {
+    "project": "finense-budgea-connect",
+    "link": "https://github.com/selego/finense-budgea-connect",
+    "files": ""
+  },
+  {
+    "project": "finense-treezor-connect",
+    "link": "https://github.com/selego/finense-treezor-connect",
+    "files": ""
+  },
+  {
+    "project": "finense-cards-activation",
+    "link": "https://github.com/selego/finense-cards-activation",
+    "files": ""
+  },
+  {
+    "project": "finense-notifications",
+    "link": "https://github.com/selego/finense-notifications",
+    "files": ""
+  },
+  {
+    "project": "finense-back-office",
+    "link": "https://github.com/selego/finense-back-office",
+    "files": ""
+  },
+  {
+    "project": "finense-admin",
+    "link": "https://github.com/selego/finense-admin",
+    "files": ""
+  },
+  {
+    "project": "technical-test-2",
+    "link": "https://github.com/selego/technical-test-2",
+    "files": "auth.js,   mongo.js, passport.js"
+  },
+  {
+    "project": "tradespotting",
+    "link": "https://github.com/selego/tradespotting",
+    "files": "brevo.js, mongo.js, passport.js, s3.js, sentry.js"
+  },
+  {
+    "project": "secoya",
+    "link": "https://github.com/selego/secoya",
+    "files": "s3.js, sentry.js"
+  },
+  {
+    "project": "whitepaper",
+    "link": "https://github.com/selego/whitepaper",
+    "files": ""
+  },
+  {
+    "project": "fkm-mobilite",
+    "link": "https://github.com/selego/fkm-mobilite",
+    "files": "blog.service.js"
+  },
+  {
+    "project": "technical-test-4",
+    "link": "https://github.com/selego/technical-test-4",
+    "files": "auth.js,   mongo.js, passport.js"
+  },
+  {
+    "project": "estimeo",
+    "link": "https://github.com/selego/estimeo",
+    "files": "email.js, Update email.js, mongo.js, passport.js, pdf.js"
+  },
+  {
+    "project": "api-engagement-intern",
+    "link": "https://github.com/selego/api-engagement-intern",
+    "files": ""
+  },
+  {
+    "project": "technical-test-3",
+    "link": "https://github.com/selego/technical-test-3",
+    "files": "auth.js,   mongo.js, passport.js"
+  },
+  {
+    "project": "champerche",
+    "link": "https://github.com/selego/champerche",
+    "files": "pdf.js"
+  },
+  {
+    "project": "bewellcome",
+    "link": "https://github.com/selego/bewellcome",
+    "files": "gpt.js, mongo.js, passport.js, s3.js, sagessia.js, sendinblue.js, sentry.js, socket.js"
+  },
+  {
+    "project": "legal",
+    "link": "https://github.com/selego/legal",
+    "files": "brevo.js, mongo.js, passport.js, s3.js, sentry.js"
+  },
+  {
+    "project": "tifo",
+    "link": "https://github.com/selego/tifo",
+    "files": "api.js"
+  },
+  {
+    "project": "Redirection-Slackbot",
+    "link": "https://github.com/selego/Redirection-Slackbot",
+    "files": ""
+  },
+  {
+    "project": "audit-prive-visite-technique",
+    "link": "https://github.com/selego/audit-prive-visite-technique",
+    "files": "pdf-rapport.js, Update pdf-rapport.js, pdf-visit.js, Update pdf-visit.js"
+  },
+  {
+    "project": "scripts",
+    "link": "https://github.com/selego/scripts",
+    "files": "elamp.js, wizbii.js"
+  },
+  {
+    "project": "technical-test-devops",
+    "link": "https://github.com/selego/technical-test-devops",
+    "files": "server.js"
+  },
+  {
+    "project": "tifo-mororepo",
+    "link": "https://github.com/selego/tifo-mororepo",
+    "files": "brevo.js,   mongo.js, passport.js, sentry.js"
+  },
+  {
+    "project": "boilerplate-v2",
+    "link": "https://github.com/selego/boilerplate-v2",
+    "files": " env-manager.js,  mongo.js, passport.js"
+  },
+  {
+    "project": "boilerplate2",
+    "link": "https://github.com/selego/boilerplate2",
+    "files": "brevo.js,   mongo.js, passport.js, sentry.js"
+  },
+  {
+    "project": "checklist",
+    "link": "https://github.com/selego/checklist",
+    "files": "  mongo.js, passport.js"
+  },
+  {
+    "project": "ithake_pilot",
+    "link": "https://github.com/selego/ithake_pilot",
+    "files": ""
+  },
+  {
+    "project": "teams-app-nodejs-boilerplate",
+    "link": "https://github.com/selego/teams-app-nodejs-boilerplate",
+    "files": "mongo.js, passport.js"
+  },
+  {
+    "project": "ozensemble-site",
+    "link": "https://github.com/selego/ozensemble-site",
+    "files": "constants.js, next. postcss. tailwind.config.js"
+  },
+  {
+    "project": "n8n-cc",
+    "link": "https://github.com/selego/n8n-cc",
+    "files": ""
+  },
+  {
+    "project": "chrome-extension-boilerplate-react-tailwind",
+    "link": "https://github.com/selego/chrome-extension-boilerplate-react-tailwind",
+    "files": "lang.js, mixpanel.js, sentry.js"
+  },
+  {
+    "project": "jobless",
+    "link": "https://github.com/selego/jobless",
+    "files": ""
+  },
+  {
+    "project": "decks",
+    "link": "https://github.com/selego/decks",
+    "files": "gpt4.js"
+  },
+  {
+    "project": "sugarfree",
+    "link": "https://github.com/selego/sugarfree",
+    "files": "api.js"
+  },
+  {
+    "project": "ozensemble-yoan",
+    "link": "https://github.com/selego/ozensemble-yoan",
+    "files": "matomo.js, sentry.js"
+  },
+  {
+    "project": "email-validator",
+    "link": "https://github.com/selego/email-validator",
+    "files": "  mongo.js, passport.js, sentry.js"
+  },
+  {
+    "project": "job-teams",
+    "link": "https://github.com/selego/job-teams",
+    "files": "App.js, App.test.js,  reportWebVitals.js, setupTests.js"
+  },
+  {
+    "project": "finotor2",
+    "link": "https://github.com/selego/finotor2",
+    "files": ""
+  },
+  {
+    "project": "selego",
+    "link": "https://github.com/selego/selego",
+    "files": "next. postcss. tailwind.config.js"
+  },
+  {
+    "project": "plugin-openai",
+    "link": "https://github.com/selego/plugin-openai",
+    "files": "  mongo.js, passport.js"
+  },
+  {
+    "project": "rentabl",
+    "link": "https://github.com/selego/rentabl",
+    "files": ""
+  },
+  {
+    "project": "recosante",
+    "link": "https://github.com/selego/recosante",
+    "files": ""
+  },
+  {
+    "project": "maestro-tech",
+    "link": "https://github.com/selego/maestro-tech",
+    "files": ""
+  },
+  {
+    "project": "BPI",
+    "link": "https://github.com/selego/BPI",
+    "files": "  mongo.js, postgresql.js, swagger.js"
+  },
+  {
+    "project": "finotor3",
+    "link": "https://github.com/selego/finotor3",
+    "files": ""
+  },
+  {
+    "project": "moneywalkie-shopify",
+    "link": "https://github.com/selego/moneywalkie-shopify",
+    "files": ".eslintrc.js, prettier.config.js"
+  },
+  {
+    "project": "chrome-extension-boilerplate",
+    "link": "https://github.com/selego/chrome-extension-boilerplate",
+    "files": "lang.js, mixpanel.js, sentry.js"
+  },
+  {
+    "project": "github-scraper",
+    "link": "https://github.com/selego/github-scraper",
+    "files": " index copy.js,  mongo.js, sentry.js"
+  },
+  {
+    "project": "lenode",
+    "link": "https://github.com/selego/lenode",
+    "files": ""
+  },
+  {
+    "project": "egosum",
+    "link": "https://github.com/selego/egosum",
+    "files": ""
+  },
+  {
+    "project": "all-scrapers",
+    "link": "https://github.com/selego/all-scrapers",
+    "files": ""
+  },
+  {
+    "project": "projectx",
+    "link": "https://github.com/selego/projectx",
+    "files": "bard.js, drop-contact.js, mailjet.js, mixpanel.js, sarbacane.js, sendinblue.js"
+  },
+  {
+    "project": "midjourney",
+    "link": "https://github.com/selego/midjourney",
+    "files": "midjourney.js"
+  },
+  {
+    "project": "oraclea",
+    "link": "https://github.com/selego/oraclea",
+    "files": "gpt4.js"
+  },
+  {
+    "project": "bpco",
+    "link": "https://github.com/selego/bpco",
+    "files": "matomo.js, pushNotification.js, sentry.js"
+  },
+  {
+    "project": "egis-nuclear",
+    "link": "https://github.com/selego/egis-nuclear",
+    "files": ""
+  },
+  {
+    "project": "macadam-cashback",
+    "link": "https://github.com/selego/macadam-cashback",
+    "files": "background.js"
+  },
+  {
+    "project": "fridgee",
+    "link": "https://github.com/selego/fridgee",
+    "files": "Update logmealUtils.js"
+  },
+  {
+    "project": "boilerplate-ts-next",
+    "link": "https://github.com/selego/boilerplate-ts-next",
+    "files": "config.ts, errors.ts, index.ts, prisma.ts, utils.ts"
+  },
+  {
+    "project": "strapi",
+    "link": "https://github.com/selego/strapi",
+    "files": ""
+  },
+  {
+    "project": "test-boilerplate",
+    "link": "https://github.com/selego/test-boilerplate",
+    "files": "  mongo.js, passport.js"
+  },
+  {
+    "project": "chessler",
+    "link": "https://github.com/selego/chessler",
+    "files": " youtube.js"
+  },
+  {
+    "project": "portfolio",
+    "link": "https://github.com/selego/portfolio",
+    "files": ""
+  },
+  {
+    "project": "hotelTravelWeekly",
+    "link": "https://github.com/selego/hotelTravelWeekly",
+    "files": " usa.js"
+  },
+  {
+    "project": "immibot",
+    "link": "https://github.com/selego/immibot",
+    "files": ""
+  },
+  {
+    "project": "snu-SIB-list",
+    "link": "https://github.com/selego/snu-SIB-list",
+    "files": ""
+  },
+  {
+    "project": "snu-plan-de-transport",
+    "link": "https://github.com/selego/snu-plan-de-transport",
+    "files": "api-adresse.js, application.js, contract.js, inscription-goal.js, jeveuxaider.js, mission.js, pointDeRassemblement.service.js, support.js"
+  },
+  {
+    "project": "hodlcards",
+    "link": "https://github.com/selego/hodlcards",
+    "files": "App.js,  reportWebVitals.js"
+  },
+  {
+    "project": "residency",
+    "link": "https://github.com/selego/residency",
+    "files": "api-football.js, aws-sns.js, hubspot.js, onesignal.js, recaptcha.js, sendinblue.js, sentry.js, shopify.js, slack.js, twilio.js, vpnapi.js"
+  },
+  {
+    "project": "climateproof",
+    "link": "https://github.com/selego/climateproof",
+    "files": ""
+  },
+  {
+    "project": "cargowise",
+    "link": "https://github.com/selego/cargowise",
+    "files": "app.js  "
+  },
+  {
+    "project": "folk",
+    "link": "https://github.com/selego/folk",
+    "files": "db.js"
+  },
+  {
+    "project": "vaultwarden",
+    "link": "https://github.com/selego/vaultwarden",
+    "files": ""
+  },
+  {
+    "project": "welcome-scraper",
+    "link": "https://github.com/selego/welcome-scraper",
+    "files": "jsonToCsv.js"
+  },
+  {
+    "project": "bpco-test",
+    "link": "https://github.com/selego/bpco-test",
+    "files": "matomo.js, pushNotification.js, sentry.js"
+  },
+  {
+    "project": "residency-certificates",
+    "link": "https://github.com/selego/residency-certificates",
+    "files": ""
+  },
+  {
+    "project": "monsuivipsy-site",
+    "link": "https://github.com/selego/monsuivipsy-site",
+    "files": ""
+  },
+  {
+    "project": "thefork-scraper",
+    "link": "https://github.com/selego/thefork-scraper",
+    "files": ""
+  },
+  {
+    "project": "convention",
+    "link": "https://github.com/selego/convention",
+    "files": ""
+  },
+  {
+    "project": "bcd",
+    "link": "https://github.com/selego/bcd",
+    "files": "truffle-config.js"
+  },
+  {
+    "project": "worker",
+    "link": "https://github.com/selego/worker",
+    "files": "  mongo.js, passport.js, s3.js, sendinblue.js"
+  },
+  {
+    "project": "fridge-scanner",
+    "link": "https://github.com/selego/fridge-scanner",
+    "files": "food-google-vision.js, food-logmeal.js,  recipes-openai.js"
+  },
+  {
+    "project": "artsplit",
+    "link": "https://github.com/selego/artsplit",
+    "files": "  mongoToPostgres.js, sequelize.js, survey.js, toolbox.js"
+  },
+  {
+    "project": "spotify-deezer-analytics",
+    "link": "https://github.com/selego/spotify-deezer-analytics",
+    "files": "artistInfosFromAPI.js,  deezer.js,  reloadArtists.js, sequelize.js, spotify.js"
+  },
+  {
+    "project": "LibreTranslate",
+    "link": "https://github.com/selego/LibreTranslate",
+    "files": ""
+  },
+  {
+    "project": "request-interceptor",
+    "link": "https://github.com/selego/request-interceptor",
+    "files": ""
+  },
+  {
+    "project": "aithena",
+    "link": "https://github.com/selego/aithena",
+    "files": "  minionUtils.js, mongo.js, passport.js, sendinblue.js, sentry.js, slack.js"
+  },
+  {
+    "project": "geodis",
+    "link": "https://github.com/selego/geodis",
+    "files": "auth.js,   mongo.js, passport.js, sendinblue.js, sentry.js"
+  },
+  {
+    "project": "sunzulab",
+    "link": "https://github.com/selego/sunzulab",
+    "files": ""
+  },
+  {
+    "project": "SHRLQ",
+    "link": "https://github.com/selego/SHRLQ",
+    "files": ""
+  },
+  {
+    "project": "apiciviqueprivate",
+    "link": "https://github.com/selego/apiciviqueprivate",
+    "files": "  passport.js, s3.js, sendinblue.js, sentry.js"
+  },
+  {
+    "project": "flowfix",
+    "link": "https://github.com/selego/flowfix",
+    "files": ""
+  },
+  {
+    "project": "tempramyseb",
+    "link": "https://github.com/selego/tempramyseb",
+    "files": "  mongo.js, passport.js, s3.js, sendinblue.js, sentry.js"
+  },
+  {
+    "project": "dashboard-cowa",
+    "link": "https://github.com/selego/dashboard-cowa",
+    "files": "  knexfile.js, queries.js, sendinblue.js, sentry.js"
+  },
+  {
+    "project": "champerche-2",
+    "link": "https://github.com/selego/champerche-2",
+    "files": "auth.js,   mongo.js, passport.js, sentry.js, sequilize.js"
+  },
+  {
+    "project": "SNU-admin",
+    "link": "https://github.com/selego/SNU-admin",
+    "files": "auth.js, Update auth.js,  cookie-options.js, cryptoUtils.js, geo.js, htmlToPdf.js,  mongo.js, passport.js, sendinblue.js, sentry.js, slack.js, zammad.js"
+  },
+  {
+    "project": "lumiere2",
+    "link": "https://github.com/selego/lumiere2",
+    "files": "  passport.js, s3.js, sendinblue.js, sentry.js, sequilize.js,  utilsClarity.js"
+  },
+  {
+    "project": "SNU-app",
+    "link": "https://github.com/selego/SNU-app",
+    "files": "app.js,   utils.js"
+  },
+  {
+    "project": "spider",
+    "link": "https://github.com/selego/spider",
+    "files": "  mongo.js, sentry.js"
+  },
+  {
+    "project": "wiki-associations",
+    "link": "https://github.com/selego/wiki-associations",
+    "files": "next. postcss. prettier. tailwind.config.js"
+  },
+  {
+    "project": "libaneese",
+    "link": "https://github.com/selego/libaneese",
+    "files": " diacritics.js, googlePlaces.js,  mapbox.js, mongo.js, notifications.js, passport.js, s3.js, sendinblue.js, sentry.js"
+  },
+  {
+    "project": "aithena-worker-pi",
+    "link": "https://github.com/selego/aithena-worker-pi",
+    "files": " deploy.js,  info.js, logger.js, s3.js"
+  },
+  {
+    "project": "scraping2",
+    "link": "https://github.com/selego/scraping2",
+    "files": ""
+  },
+  {
+    "project": "SNU2",
+    "link": "https://github.com/selego/SNU2",
+    "files": "auth.js,  cookie-options.js, cryptoUtils.js, geo.js, htmlToPdf.js,  mongo.js, passport.js, sendinblue.js, sentry.js, slack.js, zammad.js"
+  },
+  {
+    "project": "bravas",
+    "link": "https://github.com/selego/bravas",
+    "files": "file.js, mdm.js, mdmdb.js"
+  },
+  {
+    "project": "aithena-scrapping",
+    "link": "https://github.com/selego/aithena-scrapping",
+    "files": "db.js, importInDB.js, monitor.js, sitemap.js, solve.js"
+  },
+  {
+    "project": "nextjs-boilerplate",
+    "link": "https://github.com/selego/nextjs-boilerplate",
+    "files": ""
+  },
+  {
+    "project": "maakyo",
+    "link": "https://github.com/selego/maakyo",
+    "files": "api.js"
+  },
+  {
+    "project": "service-national-universel",
+    "link": "https://github.com/selego/service-national-universel",
+    "files": "auth.js,  cookie-options.js, cryptoUtils.js, htmlToPdf.js,  mongo.js, passport.js, qpv.js, sendinblue.js, sentry.js, zammad.js"
+  },
+  {
+    "project": "apicivique_public",
+    "link": "https://github.com/selego/apicivique_public",
+    "files": "auth.js,   mongo.js, passport.js, sendinblue.js, sentry.js"
+  },
+  {
+    "project": "techmakers",
+    "link": "https://github.com/selego/techmakers",
+    "files": "Update  postcss. tailwind.config.js"
+  },
+  {
+    "project": "entropy",
+    "link": "https://github.com/selego/entropy",
+    "files": "auth.js,   mongo.js, passport.js, sendinblue.js, sentry.js"
+  },
+  {
+    "project": "redcross",
+    "link": "https://github.com/selego/redcross",
+    "files": "postcss. tailwind.config.js"
+  },
+  {
+    "project": "certificates-bala-benzine",
+    "link": "https://github.com/selego/certificates-bala-benzine",
+    "files": ""
+  },
+  {
+    "project": "clarity",
+    "link": "https://github.com/selego/clarity",
+    "files": ""
+  },
+  {
+    "project": "zammad-api",
+    "link": "https://github.com/selego/zammad-api",
+    "files": "ecosystem. "
+  },
+  {
+    "project": "qrng-streamlit",
+    "link": "https://github.com/selego/qrng-streamlit",
+    "files": ""
+  },
+  {
+    "project": "scraping",
+    "link": "https://github.com/selego/scraping",
+    "files": " scrappe.js, user.js"
+  },
+  {
+    "project": "boilerplate",
+    "link": "https://github.com/selego/boilerplate",
+    "files": "auth.js,   mongo.js, passport.js, sendinblue.js, sentry.js"
+  },
+  {
+    "project": "Bravas-Agent",
+    "link": "https://github.com/selego/Bravas-Agent",
+    "files": ""
+  },
+  {
+    "project": "lumiere",
+    "link": "https://github.com/selego/lumiere",
+    "files": "Update 404.js, next. postcss. tailwind.config.js"
+  },
+  {
+    "project": "matomo-metabase",
+    "link": "https://github.com/selego/matomo-metabase",
+    "files": ""
+  },
+  {
+    "project": "Bravas-Agent-Test-Public",
+    "link": "https://github.com/selego/Bravas-Agent-Test-Public",
+    "files": ""
+  },
+  {
+    "project": "Bravas-Agent-Test",
+    "link": "https://github.com/selego/Bravas-Agent-Test",
+    "files": ""
+  },
+  {
+    "project": "postajob-tailwind",
+    "link": "https://github.com/selego/postajob-tailwind",
+    "files": "postcss. tailwind.config.js"
+  },
+  {
+    "project": "apicivique-tailwind",
+    "link": "https://github.com/selego/apicivique-tailwind",
+    "files": "postcss. tailwind.config.js"
+  },
+  {
+    "project": "mano-tailwind",
+    "link": "https://github.com/selego/mano-tailwind",
+    "files": ""
+  },
+  {
+    "project": "qrng-demo-app",
+    "link": "https://github.com/selego/qrng-demo-app",
+    "files": ""
+  },
+  {
+    "project": "qrng-lib",
+    "link": "https://github.com/selego/qrng-lib",
+    "files": ""
+  },
+  {
+    "project": "boilerplate-react",
+    "link": "https://github.com/selego/boilerplate-react",
+    "files": "app.js,  "
+  },
+  {
+    "project": "mano_selego",
+    "link": "https://github.com/selego/mano_selego",
+    "files": " errors.js,  passport.js, prodtopreprod.js, sentry.js"
+  },
+  {
+    "project": "qrng",
+    "link": "https://github.com/selego/qrng",
+    "files": ""
+  },
+  {
+    "project": "datadvise",
+    "link": "https://github.com/selego/datadvise",
+    "files": "activecampaign.js, auth.js,   mongo.js, passport.js, sendinblue.js, sentry.js"
+  },
+  {
+    "project": "linktostore",
+    "link": "https://github.com/selego/linktostore",
+    "files": ""
+  },
+  {
+    "project": "protego",
+    "link": "https://github.com/selego/protego",
+    "files": "postcss. tailwind.config.js"
+  },
+  {
+    "project": "bravas-micromdm",
+    "link": "https://github.com/selego/bravas-micromdm",
+    "files": ""
+  },
+  {
+    "project": "githubscrapper",
+    "link": "https://github.com/selego/githubscrapper",
+    "files": ""
+  },
+  {
+    "project": "analytics-next",
+    "link": "https://github.com/selego/analytics-next",
+    "files": "next. postcss. tailwind.config.js"
+  },
+  {
+    "project": "mongoose-sendinblue",
+    "link": "https://github.com/selego/mongoose-sendinblue",
+    "files": ""
+  },
+  {
+    "project": "poc-tmp-clarity",
+    "link": "https://github.com/selego/poc-tmp-clarity",
+    "files": "postcss. tailwind.config.js"
+  },
+  {
+    "project": "juliecoudry",
+    "link": "https://github.com/selego/juliecoudry",
+    "files": ""
+  },
+  {
+    "project": "analytics",
+    "link": "https://github.com/selego/analytics",
+    "files": "auth.js,   mongo.js, passport.js, sentry.js"
+  },
+  {
+    "project": "ma",
+    "link": "https://github.com/selego/ma",
+    "files": " errors.js,  passport.js, sentry.js"
+  },
+  {
+    "project": "SNU",
+    "link": "https://github.com/selego/SNU",
+    "files": "auth.js,  cryptoUtils.js, imageUtils.js,  mongo.js, passport.js, sendinblue.js, sentry.js"
+  },
+  {
+    "project": "covidars",
+    "link": "https://github.com/selego/covidars",
+    "files": "auth.js,   mongo.js, passport.js, sentry.js"
+  },
+  {
+    "project": "olybe",
+    "link": "https://github.com/selego/olybe",
+    "files": "globals.d.ts, next-env.d.ts, next.config.js"
+  },
+  {
+    "project": "elasticsearch-ai",
+    "link": "https://github.com/selego/elasticsearch-ai",
+    "files": "index copy.js, "
+  },
+  {
+    "project": "jobmaker2",
+    "link": "https://github.com/selego/jobmaker2",
+    "files": " errors.js,  passport.js, sentry.js"
+  },
+  {
+    "project": "JobMaker-Videos",
+    "link": "https://github.com/selego/JobMaker-Videos",
+    "files": "listIds.js, videos.js"
+  },
+  {
+    "project": "monsuivipsy",
+    "link": "https://github.com/selego/monsuivipsy",
+    "files": "notifications.js"
+  },
+  {
+    "project": "eslint-config-selego",
+    "link": "https://github.com/selego/eslint-config-selego",
+    "files": "base.js,  release. script.js, typescript.js"
+  },
+  {
+    "project": "mano_forestadmin",
+    "link": "https://github.com/selego/mano_forestadmin",
+    "files": "app.js, server.js"
+  },
+  {
+    "project": "ozensemble",
+    "link": "https://github.com/selego/ozensemble",
+    "files": "auth.js,   mongo.js, passport.js, sentry.js"
+  },
+  {
+    "project": "selego_mail",
+    "link": "https://github.com/selego/selego_mail",
+    "files": ""
+  },
+  {
+    "project": "postajob",
+    "link": "https://github.com/selego/postajob",
+    "files": "auth.js,   mongo.js, passport.js, sentry.js"
+  }
+]
